@@ -29,15 +29,12 @@ Cactool provides easy to implement options for multiple coders. Separate logins 
 The documentation for Cactool can be found on [Read the Docs](https://cactool.readthedocs.io)
 ## Instalation and Usage
 For more detailed instructions, please visit the [Cactool Github repository](https://github.com/cactool/cactool)
-### 1. Download the code
+### 1. Install Cactool
 ```bash
-git clone https://github.com/cactool/cactool/ && cd cactool
+pip install cactool
 ```
-### 2. Install the requirements
+### 2. Start the server
 ```bash
-pip install -Ur requirements.txt
+cactool
 ```
-### 3. Start the website
-```bash
-./cactool
 ```
