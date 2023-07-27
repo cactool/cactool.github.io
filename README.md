@@ -14,7 +14,7 @@ Cactool was designed to get around some of these limitations, while offering res
 
 # Features
 - **No more coding via spreadsheets:** Coding via your browser (tested working on Chrome, Firefox, Edge, & Safari) with posts visible as they would be on the social media platform. This allows your coders to evaluate social media content in their native format.
-- **Simple Import and Export:** Take your pre-existing social media URLs from software such as [4Cat](https://github.com/digitalmethodsinitiative/4cat), [NodeXL](https://www.smrfoundation.org/nodexl/), or API Scrapers such as [Tweepy](https://www.tweepy.org/) and import them as a CSV list. When done, you can export your data via CSV to whatever analysis software you desire (Such as SPSS/Excel).
+- **Simple Import and Export:** Take your pre-existing social media URLs from software such as [4Cat](https://github.com/digitalmethodsinitiative/4cat), [NodeXL](https://www.smrfoundation.org/nodexl/), or API Scrapers such as [Tweepy](https://www.tweepy.org/) and import them as a CSV list. When done, you can export your data via CSV to whatever analysis software you desire (such as SPSS/Excel).
 - **Importing of image/text data:** Have data from secondary source with no URLs? No Problem.
 - **Manage Multiple Datasets:** Want to split your project by source/themes? You can manage multiple concurrent datasets at the same time.
 - **Built for collaboration:** Cactool comes pre-packaged with user management; codes attributed are attributed to each coder for coder reliability calculation (such as [ReCal](http://dfreelon.org/utils/recalfront/)). Multiple people can be coding at the same time without sharing documents. No need to worry about version control or splitting up data.
