@@ -75,9 +75,12 @@ Port numbers are ways to identify specific processes which an internet or other 
 --------------------------------------
 The below settings you may find in your config folder relate to a yet-to-be-enabled future feature set. As such you should leave these blank for now.
 
-```request-email```
-```require-2fa```
-```require-email```
+```request-email```  
+
+```require-2fa```  
+
+```require-email```  
+
   
 
 
