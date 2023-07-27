@@ -117,5 +117,5 @@ This value is Megabytes. By default, the upload limit is 1024 (or 1GB) and if ne
 
 ## Using HTTPS
 ------------
-It is considered best practice to use HTTPS when handling requests, and some browsers will give warning flags for content served over HTTP. Using a reverse proxy can be used to allow Cactool to be served using HTTPS this can be done through applications such as ‘nginx <https://www.nginx.com/>`_ and `Apache <https://httpd.apache.org/>`_.
+It is considered best practice to use HTTPS when handling requests, and some browsers will give warning flags for content served over HTTP. Using a reverse proxy can be used to allow Cactool to be served using HTTPS this can be done through applications such as ‘nginx <https://www.nginx.com/>`_ and `Apache <https://http.apache.org/>`_.
 
