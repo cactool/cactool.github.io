@@ -12,29 +12,32 @@ Cactool was deigned after one of the creators grew frustrated with how content a
 
 Cactool was designed to get around some of these limitations, while offering researchers a free alternative to expensive commercial products.
 
-## Features
-### Easy import & export options
-With Cactool, you can import your list of social media posts, and export the coded data back as a CSV for use in your own analysis software (such as SPSS/Excel).
+# Features
+- **No more coding via spreadsheets:** Coding via your browser (tested working on Chrome, Firefox, Edge, & Safari) with posts visible as they would be on the social media platform. This allows your coders to evaluate social media content in their native format.
+- **Simple Import and Export:** Take your pre-existing social media URLs from software such as [4Cat](https://github.com/digitalmethodsinitiative/4cat), [NodeXL](https://www.smrfoundation.org/nodexl/), or API Scrapers such as [Tweepy](https://www.tweepy.org/) and import them as a CSV list. When done, you can export your data via CSV to whatever analysis software you desire (Such as SPSS/Excel).
+- **Importing of image/text data:** Have data from secondary source with no URLs? No Problem.
+- **Manage Multiple Datasets:** Want to split your project by source/themes? You can manage multiple concurrent datasets at the same time.
+- **Built for collaboration:** Cactool comes pre-packaged with user management; codes attributed are attributed to each coder for coder reliability calculation (such as [ReCal](http://dfreelon.org/utils/recalfront/)). Multiple people can be coding at the same time without sharing documents. No need to worry about version control or splitting up data.
+- **Code on the Go:** Cactool is mobile friendly and can be accessed remotely (we recommend using a VPN to connect, see our tutorial for why). This provides researchers interested in social media content and spaciality new avenues of research.
 
-### Visually friendly
-Cactool's easy-to-use web-interface for coders makes coding more accessible, easier, and less monotonous.
+## Platform Compatability
 
-### Customisable
-You can the platform to show questions you want to be coded for each social media post. Includes options for checkboxes, scales, or open-ended comments. 
+Cactool works for across multiple-social media platforms. The following data types are currently supported:
+- Twitter
+- YouTube
+- TikTok
+- Instagram
+- Mastodon (via OEmbed)
+- Image Data (Photos/screenshots)
+- Text Strings
+- & Some* compatibility with other OEmbed platforms
 
-### Multi-user
-Cactool provides easy to implement options for multiple coders. Separate logins and tagging of which of which content was coded by who for later inter-coder reliability tests. 
+# Credits
+The project’s Principle Investigator is [Dr Liam McLoughlin](https://Leelum.com), *Lecturer in Media & Communication at the University of Liverpool*, and development was undertaken by [Sam Ezeh](https://github.com/dignissimus)
 
-# Documentation
-The documentation for Cactool can be found on [Read the Docs](https://cactool.readthedocs.io)
-## Instalation and Usage
-For more detailed instructions, please visit the [Cactool Github repository](https://github.com/cactool/cactool)
-### 1. Install Cactool
-```bash
-pip install cactool
-```
-### 2. Start the server
-```bash
-cactool
-```
-```
+Cactus image created by catalyststuff [on Freepik](https://www.freepik.com/author/catalyststuff)
+
+## Funding
+Cactool Development was funded by the University of Liverpool’s Research Development and Initiative Fund (RDIF).
+
+![UoL - Logo - CMYK](https://user-images.githubusercontent.com/11173283/210178161-3070e2df-68a8-4128-8b1b-43453571c85b.png)
