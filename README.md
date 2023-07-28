@@ -4,8 +4,6 @@ Cactool is a platform for easy human-coding of social media content for content 
 
 The platform easily lets you contextually analyse a list of social media posts in their native form. Simply import a CSV that contains a list of social media posts (such as collected through NodeXL or other scraping services); another to set your questions; and optionally set user logins, and the platform will do the rest – proving you with an easy to use human-coding platform.
 
-Working through a self-hosted web-app, you can easily create logins for your coders
-
 ## Why Cactool
 
 Cactool was deigned after one of the creators grew frustrated with how content analysis of social media content was being undertaken. Traditionally, content was collected from Twitter or other formats, scraped, then placed into an Excel spreadsheet for manual coding of the tweets texts. This was obviously frustrating for those wishing to collect and analyse visual data. In addition, such an approach decontextualised the content, removing the content from the styling of the platform.
