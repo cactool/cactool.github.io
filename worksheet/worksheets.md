@@ -8,8 +8,8 @@ These are designed to be easy to follow, and are a great way of teaching yoursel
   
 This worksheet will take you through setting up a pre-collected dataset of cat and dog posts across a range of social media platforms. You will learn how to:
 - Format the dataset for uploading to Cactool;
--Setting up the question sheet; 
--Undertaking a quick content analysis; 
+- Setting up the question sheet; 
+- Undertaking a quick content analysis; 
 - And exporting and analysing this data. 
 
 
