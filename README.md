@@ -33,8 +33,11 @@ Cactool works for across multiple-social media platforms. The following data typ
 # Images
    
 <picture>![image](https://github.com/cactool/cactool.github.io/assets/11173283/5052f998-18aa-4c00-bc9d-8b287616b93f)</picture>  
-<picture>![image](https://github.com/cactool/cactool.github.io/assets/11173283/96c799ee-3ff7-432b-8723-6386b1d3744c)</picture>  
+
+<picture>![image](https://github.com/cactool/cactool.github.io/assets/11173283/96c799ee-3ff7-432b-8723-6386b1d3744c)</picture>
+
 <picture>![image](https://github.com/cactool/cactool.github.io/assets/11173283/3599c7ba-beb1-4a56-81f1-b373647d3083)</picture>  
+
 
 
 # Credits
