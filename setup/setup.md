@@ -3,7 +3,7 @@
 
 #  In-depth step-by-step guides:
 
-- [Step-by-step guide for installing Cactool on Windows]()
+- [Step-by-step guide for installing Cactool on Windows](/setup/windows-setup)
 
 - [Step-by-step guide for installing Cactool on MacOS]()
 
