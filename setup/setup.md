@@ -5,7 +5,7 @@
 
 - [Step-by-step guide for installing Cactool on Windows](/setup/windows-setup)
 
-- [Step-by-step guide for installing Cactool on MacOS]()
+- [Step-by-step guide for installing Cactool on MacOS](/setup/MacOS-setup)
 
 - [Step-by-step guide for installing Cactool on RaspberryPi] ()
 
