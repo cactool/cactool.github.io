@@ -9,7 +9,7 @@
 
 - [Step-by-step guide for installing Cactool on RaspberryPi] ()
 
-- [Accessing Cactool outside your network for Multiple coders or coding on the go] ()
+- [Accessing Cactool outside your network for Multiple coders or coding on the go] (/setup/multiple-users)
 
 # Quick Installation Guide
 
