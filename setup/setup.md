@@ -9,6 +9,8 @@
 
 - [Step-by-step guide for installing Cactool on RaspberryPi] ()
 
+- [Accessing Cactool outside your network for Multiple coders or coding on the go] ()
+
 # Quick Installation Guide
 
 You can install Cactool on your local machine or on a server through [Docker](https://www.docker.com/) or directly using [PIP (package manager)](https://pip.pypa.io/en/stable/). Running Cactool through a server is useful if you want to have multiple coders or want to code through your mobile while situated away from your main computer. 
