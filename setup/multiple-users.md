@@ -18,7 +18,7 @@ If you want to access Cactool outside of your local network, there are two diffe
 
 -	Through a Virtual Private Network (VPN). VPNs allow you to connect to an outside local network. So you can be out at work, connect through a VPN to your home network (where your host machine) is located), and access Cactool as if you were at home. 
 
--	Port Forwarding. Port forwarding exposes your computer to the internet, and allows to anyone with your IP to access your instance of Cactool. This guide to port forwarding by Reddit user brianatlarge  is a useful starting point: https://www.reddit.com/r/HomeNetworking/comments/i7ijiz/a_guide_to_port_forwarding/
+-	Port Forwarding. Port forwarding exposes your computer to the internet, and allows to anyone with your IP to access your instance of Cactool. This guide to port forwarding by Reddit user brianatlarge  is a useful starting point: [https://www.reddit.com/r/HomeNetworking/comments/i7ijiz/a_guide_to_port_forwarding/](https://www.reddit.com/r/HomeNetworking/comments/i7ijiz/a_guide_to_port_forwarding/)
 
 
 There are security considerations for both, so please follow best practice. But as a guide, if you’re running Cactool at home for a small team of trusted researchers, or for you to access while working remotely, a VPN will be your best option. If you are hosting Cactool on a paid-for server, please contact your webmaster who can advise.
