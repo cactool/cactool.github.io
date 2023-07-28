@@ -101,7 +101,8 @@ To prevent external unknown users from creating accounts on the Cactool instance
 
 By default, if no signup code is entered or the signup code provided is empty, no code will be required while creating an account on the server. 
 
-It is best practice to set a sign-up code. If you are going to expose your instance outside your network, it is important you set a sign-up code. If you’re on a larger internal network (such as a university) you may wish to set a signup code anyway. 
+***It is best practice to set a sign-up code.***
+  If you are going to expose your instance outside your network, it is important you set a sign-up code. If you’re on a larger internal network (such as a university) you may wish to set a signup code anyway. 
   
 
 
