@@ -1,6 +1,6 @@
 # Cactool
 ## Introduction
-Cactool is a platform for easy human-coding of social media content from Twitter and TikTok for content analysis. It was designed from the bottom up for researchers who want to code social media content, but don’t need the analytical tools of other platforms – with easy import and exporting of data.
+Cactool is a platform for easy human-coding of social media content for content analysis. It was designed from the bottom up for researchers who want to code social media content, but don’t need the analytical tools of other platforms – with easy import and exporting of data.
 
 The platform easily lets you contextually analyse a list of social media posts in their native form. Simply import a CSV that contains a list of social media posts (such as collected through NodeXL or other scraping services); another to set your questions; and optionally set user logins, and the platform will do the rest – proving you with an easy to use human-coding platform.
 
