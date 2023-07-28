@@ -27,7 +27,7 @@ There are security considerations for both, so please follow best practice. But 
 
 ## **IMPORTANT notice regarding signup codes!**
 
-It is important that if exposing your instance of Cactool outside of your network, that you set up a sign-up code to stop unknown users creating and uploading data to your instance of Cactool. [You can read how to do this here.](https://cactool.github.io/setup/config).
+It is important that if exposing your instance of Cactool outside of your network, that you set up a sign-up code to stop unknown users creating and uploading data to your instance of Cactool. [You can read how to do this here.](https://cactool.github.io/setup/config)
 
 
 
