@@ -1,6 +1,6 @@
 # Cactool FAQ
 
-#About Cactool
+# About Cactool
 
 ## Who created Cactool?
 
