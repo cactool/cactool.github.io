@@ -7,7 +7,7 @@
 
 - [Step-by-step guide for installing Cactool on MacOS](/setup/MacOS-setup)
 
-- [Step-by-step guide for installing Cactool on RaspberryPi] (WIll be addes soon)
+- [Step-by-step guide for installing Cactool on RaspberryPi] (WIll be added soon)
 
 - [Accessing Cactool outside your network for Multiple coders or coding on the go](/setup/multiple-users)
 
